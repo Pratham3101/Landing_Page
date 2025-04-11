@@ -1,0 +1,49 @@
+/*Root*/
+:root{
+    --primary-color:#043A53; 
+    --text-color:#12141D;
+    --light-grey:#F2F5F6;
+    --grey:#787878;
+
+    --font-family-base: "Lato", serif;
+    --font-family-collab: "Poppins", serif; 
+
+    --font-base: 18px;
+    --font-xxs: 12px;
+    --font-xs:14px;
+    --font-sm: 16px;
+    --font-md: 20px;
+    --font-lg: 24px;
+    --font-xl: 30px;
+    --font-2xl: 36px;
+    --font-3xl: 60px;
+    --font-4xl: 64px;
+
+    /*Font Weights*/
+    --regular: 400;
+    --medium: 500;
+    --bold: 700;
+    --bolder: 800;
+    --black: 900;
+
+}
+
+/* Reset CSS Start */
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+  
+li {
+    list-style: none;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+}
+/* Reset CSS End */
